@@ -9,6 +9,6 @@ namespace TestGit
     class ClaseDario
     {
         public string FacuComilon { get; set; }
-        public int FacuPuto { get; set; }
+        public double FacuPuto { get; set; }
     }
 }
