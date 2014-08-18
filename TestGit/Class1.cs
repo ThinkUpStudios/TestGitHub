@@ -8,6 +8,6 @@ namespace TestGit
 {
     class Class1
     {
-        public double lalala { get; set; }
+        public Int32 lalala { get; set; }
     }
 }
