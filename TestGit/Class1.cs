@@ -9,6 +9,6 @@ namespace TestGit
 {
     class Class1
     {
-        public ICollection lalala { get; set; }
+        public ICollection lalal { get; set; }
     }
 }
