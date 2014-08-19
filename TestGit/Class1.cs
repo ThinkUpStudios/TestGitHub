@@ -8,6 +8,6 @@ namespace TestGit
 {
     class Class1
     {
-        public string lalala { get; set; }
+        public int lalala { get; set; }
     }
 }
